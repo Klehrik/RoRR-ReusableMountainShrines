@@ -9,3 +9,6 @@
 
 ### v1.0.3
 * Updated all my mods to use a single helper file.
+
+### v1.0.4
+* Updated installation instructions to use the mod manager instead.

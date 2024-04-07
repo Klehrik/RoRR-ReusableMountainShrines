@@ -1,4 +1,4 @@
--- Reusable Mountain Shrines v1.0.3
+-- Reusable Mountain Shrines v1.0.4
 -- Klehrik
 
 log.info("Successfully loaded ".._ENV["!guid"]..". Enjoy =)")
